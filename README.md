@@ -37,15 +37,15 @@ newgrp docker
 
 ### Setup github secrets:
 
-AWS_ACCESS_KEY_ID =
+AWS_ACCESS_KEY_ID = 
 
-AWS_SECRET_ACCESS_KEY =
+AWS_SECRET_ACCESS_KEY = 
 
 AWS_REGION = us-east-1
 
 AWS_ECR_LOGIN_URL = 536633663342.dkr.ecr.ap-southeast-2.amazonaws.com
 
-ECR_REPOSITORY_NAME = simple-app
+ECR_REPOSITORY_NAME = credit_card_prediction
 
 
 
