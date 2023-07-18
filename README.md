@@ -41,7 +41,7 @@ AWS_ACCESS_KEY_ID =
 
 AWS_SECRET_ACCESS_KEY = 
 
-AWS_REGION = us-east-1
+AWS_REGION = ap-southeast-2
 
 AWS_ECR_LOGIN_URL = 536633663342.dkr.ecr.ap-southeast-2.amazonaws.com
 
